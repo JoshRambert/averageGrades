@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\bin\Debug\averageGrades.exe.config
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\obj\Debug\averageGrades.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\obj\Debug\averageGrades.Form1.resources
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\obj\Debug\averageGrades.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\obj\Debug\averageGrades.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\bin\Debug\averageGrades.exe
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\bin\Debug\averageGrades.pdb
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\obj\Debug\averageGrades.exe
+C:\Users\Joshua\Desktop\C#\averageGrades\averageGrades\obj\Debug\averageGrades.pdb
